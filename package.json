@@ -9,7 +9,7 @@
   "devDependencies": {
     "browserify": "^14.4.0",
     "minifyify": "^6.3.1",
-    "standard": "^10.0.3",
+    "standard": "^16.0.0",
     "watchify": "^3.9.0"
   },
   "scripts": {
